@@ -8,6 +8,21 @@
 module.exports = {
 
   attributes: {
+    templatesnumber: {
+      type: 'integer'
+    },
+    templates: {
+      type: 'string'
+    },
+    averagesum: {
+      type: 'integer'
+    },
+    combinations: {
+      type: 'integer'
+    },
+    calculus: {
+      type: 'integer'
+    }
 
   }
 };
